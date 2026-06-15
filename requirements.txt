@@ -1,6 +1,6 @@
 flask
 numpy
-tensorflow
+tensorflow==2.19.0
 opencv-python-headless
 protobuf
 pillow
